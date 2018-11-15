@@ -160,10 +160,9 @@ else if ($text =="1") {
     
     $response .= "**************************\n";
     $response .= "<pre>";
-    $response .= " #    ####  #### \n
-#  #  #  #  #  \n
+    $response .= " ##    ####  #### \n
 ####  ####  #  \n
-#  #  #     ##### \n";
+#  #  #  #  #####  \n";
 $response .= "</pre>";
     
     $response .= "VOTE WISELY \n";
