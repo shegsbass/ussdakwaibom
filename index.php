@@ -159,10 +159,11 @@ else if ($text =="1") {
     $response .= "END Your pulling unit is E-LIBRARY \n";
     
     $response .= "**************************\n";
-    $response .= "<pre style = \"line-height:5px\">";
+    $response .= "<pre style = \"line-height:7px\">";
     $response .= " ##   ####  #### \n
+#  #  #  #  #
 ####  ####  #  \n
-#  #  #    #####  \n";
+#  #  #     ####  \n";
 $response .= "</pre>";
     
     $response .= "Your Message Here \n";
