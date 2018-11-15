@@ -8,12 +8,13 @@ $sessionId = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
+/**
 $database ="votersdesk";
 $pass = "";
 $username = "root";
 $host = "localhost";
 
-/**
+
 $con = new mysqli($host,$username,$pass,$database);
 if($con->connect_error){
     die("connection failed " . $con->connect_error);
