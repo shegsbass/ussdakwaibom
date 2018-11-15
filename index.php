@@ -160,10 +160,10 @@ else if ($text =="1") {
     
     $response .= "**************************\n";
     $response .= "<pre style = \"line-height:7px\">";
-    $response .= " ##   ####  #### \n
-#  #  #  #  #
+    $response .= " ##   ####  #*#* \n
+*  *  *  *  #
 ####  ####  #  \n
-#  #  #     ####  \n";
+#  #  #     #*#*  \n";
 $response .= "</pre>";
     
     $response .= "Your Message Here \n";
