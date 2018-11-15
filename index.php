@@ -160,8 +160,8 @@ else if ($text =="1") {
 
     $response .= "<pre>";
     $response .= " #    ####  #### \n
-#### ####    \n
 #  #  ####  #  \n
+####  ####  #  \n
 #  #  #     ##### \n";
 $response .= "</pre>";
     
