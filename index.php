@@ -158,9 +158,13 @@ else if ($text =="1") {
     // displays the polling unit
     $response .= "END Your pulling unit is E-LIBRARY \n";
 
-    $response .= "  *  ***  *** \n";
-    $response .= "*** *** *   \n";
-    $response .= "* * *     ***\n";
+    $response .= "<pre>";
+    $response .= " #    ####  #### \n
+#  #  #  # #    \n
+####  ####  #  \n
+#  #  #     # \n
+#  #  #     ##### ";
+$response .= "</pre>";
     
     $response .= $message;
     
