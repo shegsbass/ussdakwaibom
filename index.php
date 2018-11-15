@@ -165,7 +165,7 @@ else if ($text =="1") {
 #  #  #  #  #####  \n";
 $response .= "</pre>";
     
-    $response .= "VOTE WISELY \n";
+    $response .= "Your Message Here \n";
     
     $response .= "**************************\n";
 }
