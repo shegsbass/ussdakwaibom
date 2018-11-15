@@ -168,11 +168,11 @@ else if ($text =="1") {
     // displays the polling unit
     $response .= "END Your pulling unit is E-LIBRARY \n";
 
-    $response .= "END ************************** \n";
+    $response .= "************************** \n";
     
     $response .= $message;
     
-    $response .= "END **************************\n";
+    $response .= "**************************\n";
 }
 elseif($text == "1*1*3"){
     // displays the polling unit
