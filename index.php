@@ -157,7 +157,8 @@ else if ($text =="1") {
    elseif($text == "1*1*1"){
     // displays the polling unit
     $response .= "END Your pulling unit is E-LIBRARY \n";
-
+    
+    $response .= "**************************\n";
     $response .= "<pre>";
     $response .= " #    ####  #### \n
 #  #  #  #  #  \n
@@ -165,7 +166,7 @@ else if ($text =="1") {
 #  #  #     ##### \n";
 $response .= "</pre>";
     
-    $response .= $message;
+    $response .= "VOTE WISELY \n";
     
     $response .= "**************************\n";
 }
