@@ -157,13 +157,14 @@ else if ($text =="1") {
    elseif($text == "1*1*1"){
        // displays the polling unit for Abak Urban I
       
-       $response = "END *   *** ***
-                        *   *** *** \n
-                       ***  *** *   \n
-                      *   * *   ***  \n";
-                        
-       $response .= $message;
-       
+    $response = "END Your pulling unit is E-LIBRARY \n";
+
+    $response .= " ************************** \n";
+    
+    $response .= $message;
+    
+    $response .= " **************************\n";
+    
    }
    elseif($text == "1*1*2"){
     // displays the polling unit
