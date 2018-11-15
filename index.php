@@ -160,7 +160,7 @@ else if ($text =="1") {
     
     $response .= "**************************\n";
     $response .= "<pre>";
-    $response .= " ##    ####  #### \n
+    $response .= " ##   ####  #### \n
 ####  ####  #  \n
 #  #  #  #  #####  \n";
 $response .= "</pre>";
