@@ -303,6 +303,7 @@ if(isset($_POST['message'])){
 // $query1 = "INSERT INTO message (message) VALUES ('$msg')";
 
 //updating
+**/
 
 
 
