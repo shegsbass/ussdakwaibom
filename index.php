@@ -8,6 +8,29 @@ $sessionId = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
+
+if ( $text == "" ) {
+// Show all LGA in Akwa Ibom
+
+$response = "CON Enter Your PU code\n";
+
+}
+  else if ($text == "1609012"){
+  $response .= "END Your pulling unit is E-LIBRARY \n";
+    
+    $response .= "**************************\n";
+    $response .= "<pre style = \"line-height:7px\">";
+    $response .= " ##    ###   ### \n
+#  #  #  #  #
+####  ####  #  \n
+#  #  #      ###  \n";
+$response .= "</pre>";
+    
+    $response .= "Your Message Here \n";
+    
+    $response .= "**************************\n";
+
+}
 /**
 $database ="votersdesk";
 $pass = "";
@@ -48,7 +71,7 @@ if(isset($_POST['message'])){
 
 //updating
 
-**/
+
 
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
@@ -9778,7 +9801,7 @@ elseif ($text =="31*1"){
    }
 
 //End of Wards in all LGA in Akwa Ibom State
-
+**/
 
 // Print the response onto the page so that our gateway can read it
 
