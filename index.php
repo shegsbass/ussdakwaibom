@@ -19,7 +19,7 @@ $response .= "</pre>";
     
     $response .= "\n";
     
-    $response .= "**************************\n";]
+    $response .= "**************************\n"];
 
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
