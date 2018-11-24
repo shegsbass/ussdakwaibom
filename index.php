@@ -9,17 +9,7 @@ $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 
-$display = [ "**************************\n";
-    $response .= "<pre style = \"line-height:7px\">";
-    $response .= " ##    ###   ### \n
-#  #  #  #  #
-####  ####  #  \n
-#  #  #      ###  \n";
-$response .= "</pre>";
-    
-    $response .= "\n";
-    
-    $response .= "**************************\n"];
+$display = [ "**************************\n"];
 
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
