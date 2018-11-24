@@ -1499,10 +1499,7 @@ else if ($text == "030311011"){
 
 //END OF POLLING UNITS IN WARD 11 OF LGA 3
 
-**/
 
-
-/**
 $database ="votersdesk";
 $pass = "";
 $username = "root";
