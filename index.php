@@ -960,6 +960,7 @@ else if ($text == "030210002"){
 
 // START OF PULLING UNITS UNDER EKET LGA
 
+/**
 
 else if ($text == "030301001"){
   $response .= "END YOUR POLLING UNIT IS \n";
@@ -1498,7 +1499,7 @@ else if ($text == "030311011"){
 
 //END OF POLLING UNITS IN WARD 11 OF LGA 3
 
-
+**/
 
 
 /**
