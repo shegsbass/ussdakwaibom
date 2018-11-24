@@ -308,382 +308,376 @@ else if ($text == "030105014"){
 //End of pulling unit in Ward 5 of Local government 1.
 
   else if ($text == "030106001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UBOM\n";
   $response .= $display;
 }
 
 else if ($text == "030106002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT INYANG\n";
    $response .= $display;
 }
 
 else if ($text == "030106003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT IBIT EKPE\n";
   $response .= $display;
 }
 
 else if ($text == "030106004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT OBIO IKPA\n";
   $response .= $display;
 }
 
 else if ($text == "030106005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
-    
-    $response .= "**************************\n";
-    $response .= "<pre style = \"line-height:7px\">";
-    $response .= " ##    ###   ### \n
-#  #  #  #  #
-####  ####  #  \n
-#  #  #      ###  \n";
-$response .= "</pre>";
-    
-    $response .= "\n";
-    
-    $response .= "**************************\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBIO IKPA\n";
+    $response .= $display;
 }
 
 else if ($text == "030106006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UKANA MKPA EYOP\n";
   $response .= $display;
 }
 
 else if ($text == "030106007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS V/H , UKANA MKPA EYOP\n";
    $response .= $display;
 }
 
 else if ($text == "030106008"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOUSUNG\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UFEN\n";
    $response .= $display;
 }
 
 else if ($text == "030106009"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, NTO UTOM UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG\n";
  $response .= $display;
 }
 
 else if ($text == "030106010"){
-  $response .= "END YOUR POLLING UNIT IS NCSS, IKOT IYIRE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE , IKOT OBONG\n";
   $response .= $display;
 }
 
 else if ($text == "030106011"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT AKPA EDEM\n";
    $response .= $display;
 }
 
 else if ($text == "030106012"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT AKPABIO 1\n";
    $response .= $display;
 }
 
 else if ($text == "030106013"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT ONUK UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT AKPABIO 2\n";
    $response .= $display;
 }
 
 else if ($text == "030106014"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, MANTA\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKWEK\n";
   $response .= $display;
 }
 
 else if ($text == "030106015"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MANTA EDEM IDIM\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, VILLAGE SQUARE, IKWEK\n";
   $response .= $display;
 }
 
 else if ($text == "030106016"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MANTA EDEM IDIM\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT NDUE\n";
    $response .= $display;
 }
 
 else if ($text == "030106017"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MANTA EDEM IDIM\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT NDUE\n";
    $response .= $display;
 }
 
 else if ($text == "030106018"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MANTA EDEM IDIM\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, NTUKUK\n";
   $response .= $display;
 }
 
 //End of pulling unit in Ward 6 of Local government 1.
 
   else if ($text == "030107001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS CUSTOMARY COURT, IKOT ESHIET\n";
   $response .= $display;
 }
 
 else if ($text == "030107002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT EKIDUK\n";
   $response .= $display;
 }
 
 else if ($text == "030107003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EKIDUK\n";
   $response .= $display;
 }
 
 else if ($text == "030107004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT IKPE\n";
   $response .= $display;
 }
 
 else if ($text == "030107005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT IFANG\n";
   $response .= $display;
 }
 
 else if ($text == "030107006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NTO OTONG\n";
   $response .= $display;
 }
 
 else if ($text == "030107007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS V/H, NTO OTONG\n";
   $response .= $display;
 }
 
 else if ($text == "030107008"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOUSUNG\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT UKO\n";
  $response .= $display;
 }
 
 else if ($text == "030107009"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, NTO UTOM UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UKO\n";
  $response .= $display;
 }
 
 else if ($text == "030107010"){
-  $response .= "END YOUR POLLING UNIT IS NCSS, IKOT IYIRE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT ANYAKANA\n";
  $response .= $display;
 }
 
 else if ($text == "030107011"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, ATAN MIDIM\n";
   $response .= $display;
 }
 
 else if ($text == "030107012"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAN MIDIM\n";
    $response .= $display;
 }
 
 else if ($text == "030107013"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT ONUK UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT EDEDE\n";
   $response .= $display;
 }
 
 //End of pulling unit in Ward 7 of Local government 1.
 
   else if ($text == "030108001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EDONG\n";
     $response .= $display;
 }
 
 else if ($text == "030108002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UMO\n";
    $response .= $display;
 }
 
 else if ($text == "030108003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UMO\n";
   $response .= $display;
 }
 
 else if ($text == "030108004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, UTU MIDIM\n";
   $response .= $display;
 }
 
 else if ($text == "030108005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UTU MIDIM\n";
   $response .= $display;
 }
 
 else if ($text == "030108006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, NTO OBO 11\n";
   $response .= $display;
 }
 
 else if ($text == "030108007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS V/H , NTO OBO 11\n";
  $response .= $display;
 }
 
 else if ($text == "030108008"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOUSUNG\n";
+  $response .= "END YOUR POLLING UNIT IS KING INT. SCH NTO OBO\n";
    $response .= $display;
 }
 
 else if ($text == "030108009"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, NTO UTOM UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NTO OBO 1\n";
   $response .= $display;
 }
 
 else if ($text == "030108010"){
-  $response .= "END YOUR POLLING UNIT IS NCSS, IKOT IYIRE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, EKPAT IDUOT\n";
   $response .= $display;
 }
 
 else if ($text == "030108011"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ANTUK\n";
   $response .= $display;
 }
 
 else if ($text == "030108012"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT AKPAN ADIA\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EKON\n";
   $response .= $display;
 }
 
 else if ($text == "030108013"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT ONUK UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT EKON\n";
   $response .= $display;
 }
 
 //End of pulling unit in Ward 8 of Local government 1.
 
+
   else if ($text == "030109001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, ATAI OTORO\n";
   $response .= $display;
 }
 
 else if ($text == "030109002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, ATAI OTORO\n";
   $response .= $display;
 }
 
 else if ($text == "030109003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT OKU MFANG\n";
     $response .= $display;
 }
 
 else if ($text == "030109004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, ABIA OKPO\n";
    $response .= $display;
 }
 
 else if ($text == "030109005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS CSS, ATAI OTORO\n";
   $response .= $display;
 }
 
 else if ($text == "030109006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, OTORO 1\n";
    $response .= $display;
 }
 
 else if ($text == "030109007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT ESSIENETOK\n";
   $response .= $display;
 }
 
 //End of pulling unit in Ward 9 of Local government 1.
 
+
   else if ($text == "030110001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS V/H, URUK USO\n";
    $response .= $display;
 }
 
 else if ($text == "030110002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, URUK USO\n";
    $response .= $display;
 }
 
 else if ($text == "030110003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT OBIOKO\n";
   $response .= $display;
 }
 
 else if ($text == "030110004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBIOKO 1\n";
    $response .= $display;
 }
 
 else if ($text == "030110005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBIOKO 2\n";
    $response .= $display;
 }
 
 else if ($text == "030110006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OSOM\n";
    $response .= $display;
 }
 
 else if ($text == "030110007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OSOM\n";
   $response .= $display;
 }
 
 else if ($text == "030110008"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOUSUNG\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NKO OTORO\n";
  $response .= $display;
 }
 
 else if ($text == "030110009"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, NTO UTOM UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, NKO OTORO\n";
    $response .= $display;
 }
 
 else if ($text == "030110010"){
-  $response .= "END YOUR POLLING UNIT IS NCSS, IKOT IYIRE\n";
+  $response .= "END YOUR POLLING UNIT IS MKT SQUARE, IDORO (URUK USO)\n";
   $response .= $display;
 }
 
 //End of pulling unit in Ward 10 of Local government 1.
 
+
   else if ($text == "030111001"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ATA UDO\n";
   $response .= $display;
 }
 
 else if ($text == "030111002"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IKOT ODON\n";
    $response .= $display;
 }
 
 else if ($text == "030111003"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKU UBARA \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ETUKUDO\n";
    $response .= $display;
 }
 
 else if ($text == "030111004"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INYANG EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ETUKUDO\n";
  $response .= $display;
 }
 
 else if ($text == "030111005"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAI EDIENE\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EBOK\n";
    $response .= $display;
 }
 
 else if ($text == "030111006"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH IBANANG\n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IBONG OTORO\n";
    $response .= $display;
 }
 
 else if ($text == "030111007"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UDOUSUNG \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH , IBONG OTORO\n";
   $response .= $display;
 }
 
 else if ($text == "030111008"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOUSUNG\n";
+  $response .= "END YOUR POLLING UNIT IS V/H, IBONG IKOT AKPAN ABASI\n";
   $response .= $display;
 }
 
 else if ($text == "030111009"){
-  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, NTO UTOM UKPOM\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IBIAKPAN 1\n";
   $response .= $display;
 }
 
 else if ($text == "030111010"){
-  $response .= "END YOUR POLLING UNIT IS NCSS, IKOT IYIRE\n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IBIAKPAN 11\n";
    $response .= $display;
 }
 
 //End of pulling unit in Ward 11 of Local government 1.
+
+// End of all pulling units in every wards under ABAK LGA
 
 
 
