@@ -902,7 +902,7 @@ $response .= "</pre>";
     $response .= "**************************\n";
 }
 
-else if ($text == "030105014"){
+else if ($text == "030105015"){
   $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO OBIOINOK\n";
   $response .= $display;
 }
