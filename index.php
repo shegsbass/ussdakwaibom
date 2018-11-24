@@ -18,6 +18,10 @@ $display = "**************************\n
 </pre> 
     **************************\n";
 
+$message = "Your text goes here\n";
+
+
+
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
 
@@ -961,11 +965,6 @@ else if ($text == "030210002"){
 // START OF PULLING UNITS UNDER EKET LGA
 
 
-
-
-
-/**
-
 else if ($text == "030301001"){
   $response .= "END YOUR POLLING UNIT IS \n";
   $response .= $display;
@@ -1503,6 +1502,7 @@ else if ($text == "030311011"){
 
 //END OF POLLING UNITS IN WARD 11 OF LGA 3
 
+/**
 
 $database ="votersdesk";
 $pass = "";
