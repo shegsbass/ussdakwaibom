@@ -811,7 +811,6 @@ else if ($text == "030205006"){
 
 //End of pulling units in ward 5 or LGA 2
 
-
 else if ($text == "030206001"){
   $response .= "END YOUR POLLING UNIT IS TOWN HALL AMAUKA\n";
   $response .= $display;
@@ -841,7 +840,6 @@ else if ($text == "030206006"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH OBIANGA\n";
    $response .= $display;
 }
-
 else if ($text == "030206007"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH IWOFE\n";
    $response .= $display;
@@ -924,7 +922,8 @@ else if ($text == "030208009"){
 //End of pulling units in ward 8 or LGA 2
 
 else if ($text == "030209001"){
-  $response .= "END YOUR POLLING UNIT IS PRY SCH KAMPA 1;
+  $response .= "END YOUR POLLING UNIT IS PRY SCH KAMPA 1\n";
+  $response .= $display;
 }
 
 else if ($text == "030209002"){
@@ -965,7 +964,6 @@ else if ($text == "030210002"){
 
 // START OF PULLING UNITS UNDER EKET LGA
 
-/**
 
 else if ($text == "030301001"){
   $response .= "END YOUR POLLING UNIT IS \n";
@@ -1504,7 +1502,7 @@ else if ($text == "030311011"){
 
 //END OF POLLING UNITS IN WARD 11 OF LGA 3
 
-
+/**
 
 $database ="votersdesk";
 $pass = "";
