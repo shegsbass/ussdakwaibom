@@ -1502,46 +1502,6 @@ else if ($text == "030311011"){
 
 //END OF POLLING UNITS IN WARD 11 OF LGA 3
 
-/**
-
-$database ="votersdesk";
-$pass = "";
-$username = "root";
-$host = "localhost";
-
-$con = new mysqli($host,$username,$pass,$database);
-if($con->connect_error){
-    die("connection failed " . $con->connect_error);
-}else{
-
-}
-$query = "Select * from message";
-$result = mysqli_query($con,$query);
-
-if(mysqli_num_rows($result)>0){
-
-  while($row = mysqli_fetch_assoc($result)){
-      $message = $row['message'];
-  }
-}
-
-if(isset($_POST['message'])){
-    $msg = $_POST['message'] ;
-    $query2 = "UPDATE message set message='$msg' where id=0";
-
-    //submit the query to dy
-    $result = mysqli_query($con,$query2);
-    if($result){
-        echo "Success";
-    }
-}
-
-//inserting 
-
-// $query1 = "INSERT INTO message (message) VALUES ('$msg')";
-
-//updating
-**/
 
 
 
