@@ -1506,32 +1506,32 @@ else if ($text == "030311011"){
 //START OF PULLING UNITS IN WARD 1 OF LGA 4
 
 else if ($text == "030401001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH EKPENE OBO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030401002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H NDITO INI IDUNG IKOT\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030401003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H NDITO UTO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030401004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS SEC SCH EKPENE OBO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030401005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H UQUA ISI EDOHO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030401006"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE IDUNG AWAI\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1539,32 +1539,32 @@ else if ($text == "030401006"){
 //END OF PU IN WARD 1 OF LGA 4
 
 else if ($text == "030402001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	HEALTH CENTRE ONIOK EDOR\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030402002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	VILLAGE SQUARE EDO ATAI\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030402003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H ONIOK EDOR\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030402004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H AFAHA IKOT EYO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030402005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	VILLAGE SQUARE IKOT EYO. II\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030402006"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H ASSAN\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1572,27 +1572,27 @@ else if ($text == "030402006"){
 //END OF PU IN WARD 2 OF LGA 4
 
 else if ($text == "030403001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	PRY SCH EBE EKPI\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030403002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H EBE EKPI\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030403003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H AKPA MBIET\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030403004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	PRY SCH EDIDA EDOR\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030403005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE EDIDA EDOR\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1600,27 +1600,27 @@ else if ($text == "030403005"){
 //END OF PU IN WARD 3 OF LGA 4
 
 else if ($text == "030404001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH IKPA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030404002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG EBIENO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030404003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE IDUNG AKPAUSEN\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030404004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS TECHNICAL SCH. IKPA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030404005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG OKPO, IKPA\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1628,27 +1628,27 @@ else if ($text == "030404005"){
 //END OF PU IN WARD 4 OF LGA 4
 
 else if ($text == "030405001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	PRY SCH UQUO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030405002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG AKPANTUEN\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030405003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H NDON EYO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030405004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H NDON EDIM\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030405005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE EBIGHI ANWANG\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1656,27 +1656,27 @@ else if ($text == "030405005"){
 //END OF PU IN WARD 5 OF LGA 4
 
 else if ($text == "030406001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H EBIGHI OKPONO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030406002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG NTUEN\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030406003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H EBIGHI ASSANG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030406004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	VILLAGE SQUARE IDUNG UNAN\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030406005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H IDUNG ITAM\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1684,27 +1684,27 @@ else if ($text == "030406005"){
 //END OF PU IN WARD 6 OF LGA 4
 
 else if ($text == "030407001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	PRY SCH IDUNG ASSAN\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030407002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	MARKET SQUARE AFANA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030407003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H ETEBI IDUNG ITA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030407004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE IDUNG ITA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030407005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE IDUNG UMOYUO\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1712,32 +1712,32 @@ else if ($text == "030407005"){
 //END OF PU IN WARD 7 OF LGA 4
 
 else if ($text == "030408001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	MARKET SQUARE MBAK UYO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030408002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H ETEBI MBAK UYO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030408003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H MBAK UYO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030408004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	PRY SCH ETEBI AKWATA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030408005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH AKWATA\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030408006"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG ASUA\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1745,32 +1745,32 @@ else if ($text == "030408006"){
 //END OF PU IN WARD 8 OF LGA 4
 
 else if ($text == "030409001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH AKPAUTONG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030409002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG ABIDIANG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030409003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG USIONG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030409004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS 	V/H IDUNG OBONG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030409005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH URUA OKOK\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030409006"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL URUA OKOK\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1778,42 +1778,42 @@ else if ($text == "030409006"){
 //END OF PU IN WARD 9 OF LGA 4
 
 else if ($text == "030410001"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH ODORO NKIT\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410002"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG AMANA, ODORO NKIT\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410003"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE EBIGHI ADAHA UKIM\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410004"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG OBIO EKO\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410005"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H AFAHA EKPENEDI\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410006"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS V/H IDUNG ATANGA EDEM\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410007"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS PRY SCH NTAK INYANG\n";
   $response .= $display;
   $response .= $message;
 }
 else if ($text == "030410008"){
-  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= "END YOUR POLLING UNIT IS MARKET SQUARE NTAK INYANG\n";
   $response .= $display;
   $response .= $message;
 }
@@ -1823,6 +1823,3870 @@ else if ($text == "030410008"){
 //END OF ALL PU IN EVERY WARD OF LGA 4
 
 //START OF PU IN WARD 1 OF LGA 5
+
+else if ($text == "030501001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NTO NSEK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501002"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, URUA AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN ESSIET\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501004"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, AFAHA IKOT EBAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501005"){
+  $response .= "END YOUR POLLING UNIT IS OLD MARKET SQUARE, IKOT EBAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501006"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501007"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSE 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501008"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSE 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501009"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBIOKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501010"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UKPONG OFFIONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501011"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NSASAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501012"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN EKA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501013"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ADA UTOR\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030501014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UKO\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 5
+
+else if ($text == "030502001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030502014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 2 OF LGA 5
+
+else if ($text == "030503001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NTO NSEK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503002"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, URUA AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN ESSIET\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503004"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, AFAHA IKOT EBAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503005"){
+  $response .= "END YOUR POLLING UNIT IS OLD MARKET SQUARE, IKOT EBAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503006"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503007"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSE 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503008"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSE 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503009"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBIOKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503010"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UKPONG OFFIONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503011"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, NSASAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503012"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN EKA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503013"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ADA UTOR\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030503014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE HALL, IKOT UKO\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 3 OF LGA 5
+
+else if ($text == "030504001"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, EKPEYONG ATAI 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504002"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NTO OBIO AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO ESENOWO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504004"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, UTU EKPEYONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504005"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, UTU EKPEYONG 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504006"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, URUK OBONG 11\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504007"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, URUK OBONG 11\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504008"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NTAK EKPEYONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504009"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NTO OSUNG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504010"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT INYANG UDO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504011"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, MIDIM ATAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504012"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MIDIM ATAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504013"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, MIDIM NTO UDO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030504015"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UBO\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 4 OF LGA 5
+
+else if ($text == "030505001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, MBIABET IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505002"){
+  $response .= "END YOUR POLLING UNIT IS SEC SCH MBIABET IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, EBE IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505004"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH IKOT ESIDE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505005"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ESIDE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505006"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, EKPENE OTON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505007"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL ONION ONO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505008"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, EKOI IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505009"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT EKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505010"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ABIAT\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505011"){
+  $response .= "END YOUR POLLING UNIT IS GENERAL HOSPITAL, MBIAOBONG IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505012"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, USUNG IDIM, MBIAOBONG IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505013"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKPE NUNG INYANG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKPE UDOK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505015"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKPE IKOT AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505016"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKPE IKOT NTUEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505017"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IBAM IKPE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030505018"){
+  $response .= "END YOUR POLLING UNIT IS NEW COMP. HALL, EKPENE OTOM\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+
+//END OF PU IN WARD 5 OF LGA 5
+
+else if ($text == "030506001"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT UMOESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506002"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UMOESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506003"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT INEME\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506004"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT INEME\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506005"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EKPEYONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506006"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDOM OBOT\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506007"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, UKANA, IKOT NTUEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506008"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, EKPENYONG UFUM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506009"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UKANA MBAK UKOT\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030506010"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, NTO AKPA OKO\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 6 OF LGA 5
+
+else if ($text == "030507001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UTIN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507002"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT IBANGA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UKO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507004"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH. IKOT EBOK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507005"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ANDEM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507006"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507007"){
+  $response .= "END YOUR POLLING UNIT IS V/SQ IKOT IDEM, ANWA UYO/IKOT IDEM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507008"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IDUNG ESIMUK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030507009"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UDU\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 7 OF LGA 5
+
+else if ($text == "030508001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508002"){
+  $response .= "END YOUR POLLING UNIT IS CONVENT SCH, IKOT ESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UKO ETOR\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508004"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT NYA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508005"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL UMON OKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508006"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL IKOT OCHO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508007"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AMA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508008"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NTO UBIAM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508009"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, NTO OKPO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508010"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OKO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508011"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT IDEM UDO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508012"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IFA OKON 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508013"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IFA OKON 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EKEFRE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508015"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT EKPEYONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508016"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT IGWE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508017"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NYI OKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508018"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO OKURE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508019"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKPE OKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030508020"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UFUKU OKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 8 OF LGA 5
+
+else if ($text == "030509001"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT NKWA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509002"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBONG EDONG 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OBONG EDONG 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509004"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UKANA NSASAK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509005"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ANDEM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509006"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ETAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509007"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN INYANG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509008"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT EKON\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509009"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN EFIA 1\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509010"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPAN EFIA 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509011"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESODOMO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509012"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IBOHO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509013"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509014"){
+  $response .= "END YOUR POLLING UNIT IS else if ($text == "030509014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509015"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OFFIONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509016"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPABIN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509017"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, UKANA UNA EAST\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509018"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, UKANA UNA EAST\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509019"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT ESO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509020"){
+  $response .= "END YOUR POLLING UNIT IS IKOT OFOK, PRY SCH\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509021"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT AKPAN ESSIEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509022"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT AKPAN ESSIEN 2\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509023"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT OSOM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030509024"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT OFFIONG ETOR\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+
+//END OF PU IN WARD 9 OF LGA 5
+
+else if ($text == "030510001"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, UKANA UWA WEST\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510002"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT UKPONG ETOR\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510003"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT AKAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510004"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO EKRAT\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510005"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT AFANGA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510006"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OTU\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510007"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, NTAK IKOT AKPAN\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 10 OF LGA 5
+
+else if ($text == "030511001"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT EDET\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511002"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT AKPAN NTIA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511003"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AYARA\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511004"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, AKPA UTONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511005"){
+  $response .= "END YOUR POLLING UNIT IS ST ALOYSIUS PRY SCH, AKPAUTONG\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511006"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO IDEM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511007"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, ONUK NKOP EKPO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511008"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKPABIO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511009"){
+  $response .= "END YOUR POLLING UNIT IS INDEPENDENCE HIGH SCH, UKANA IKOT NTUEN\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511010"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, ONUK IKOT NGWO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030510011"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, ONUK IKOTOSOM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511012"){
+  $response .= "END YOUR POLLING UNIT IS PRY SCH, UKANA (OKOP AKAMA)\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511013"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, UKANA IKOT IDE\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511014"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO ETIM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511015"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT UDO INAM\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511016"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, ATAN IKOT OKORO\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511017"){
+  $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, UKANA ONUK\n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030511018"){
+  $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT OKWO ETIM\n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 5
+
+//END OF ALL PU IN LGA 5 (ESSIEN UDIM)
+
+//START OF PU IN WARD 1 OF LGA 6 (ETIM EKPO)
+
+else if ($text == "030601001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030601014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 6
+
+else if ($text == "030602001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030602014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 2 OF LGA 6
+
+else if ($text == "030603001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030603014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 3 OF LGA 6
+
+else if ($text == "030604001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030604014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 4 OF LGA 6
+
+else if ($text == "030605001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030605014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 5 OF LGA 6
+
+else if ($text == "030606001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030606014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 6 OF LGA 6
+
+else if ($text == "030607001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030607014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 7 OF LGA 6
+
+else if ($text == "030608001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030608014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 8 OF LGA 6
+
+else if ($text == "030609001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030609014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 9 OF LGA 6
+
+else if ($text == "030610001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030610014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 10 OF LGA 6
+
+//END OF ALL PU IN LGA 6
+
+//START OF PU IN WARD 1 OF LGA 7
+
+else if ($text == "030701001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030701014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 7
+
+else if ($text == "030702001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030702014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 2 OF LGA 7
+
+else if ($text == "030703001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030703014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 3 OF LGA 7
+
+else if ($text == "030704001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030704014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 4 OF LGA 7
+
+else if ($text == "030705001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030705014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 5 OF LGA 7
+
+else if ($text == "030706001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030706014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 6 OF LGA 7
+
+else if ($text == "030707001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030707014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 7 OF LGA 7
+
+else if ($text == "030708001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030708014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 8 OF LGA 7
+
+
+else if ($text == "030709001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030709014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 9 OF LGA 7
+
+else if ($text == "030710001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030710014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 10 OF LGA 7
+
+else if ($text == "030711001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030711014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 11 OF LGA 7
+
+//END OF ALL PU IN LGA 7
+
+// START OF PU IN WARD 1 OF LGA 8
+
+else if ($text == "030801001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030801014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 8
+
+else if ($text == "030802001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030802014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 2 OF LGA 8
+
+else if ($text == "030803001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030803014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 3 OF LGA 8
+
+else if ($text == "030804001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030804014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 4 OF LGA 8
+
+else if ($text == "030805001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030805014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 5 OF LGA 8
+
+else if ($text == "030806001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030806014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 6 OF LGA 8
+
+else if ($text == "030807001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030807014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 7 OF LGA 8
+
+else if ($text == "030808001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030808014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 8 OF LGA 8
+
+else if ($text == "030809001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030809014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 9 OF LGA 8
+
+else if ($text == "030810001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030810014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 10 OF LGA 8
+
+//END OF ALL WARDS UNDER LGA 8
+
+//START OF WARD 1 OF LGA 9
+
+else if ($text == "030901001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030901014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 1 OF LGA 9
+
+else if ($text == "030902001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030902014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 2 OF LGA 9
+
+else if ($text == "030903001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030903014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 3 OF LGA 9
+
+else if ($text == "030904001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030904014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 4 OF LGA 9
+
+else if ($text == "030905001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030905014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 5 OF LGA 9
+
+else if ($text == "030906001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030906014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 6 OF LGA 9
+
+else if ($text == "030907001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030907014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 7 OF LGA 9
+
+else if ($text == "030908001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030908014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 8 OF LGA 9
+
+else if ($text == "030909001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030909014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 9 OF LGA 9
+
+else if ($text == "030910001"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910002"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910003"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910004"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910005"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910006"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910007"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910008"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910009"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910010"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910011"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910012"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910013"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+else if ($text == "030910014"){
+  $response .= "END YOUR POLLING UNIT IS \n";
+  $response .= $display;
+  $response .= $message;
+}
+
+//END OF PU IN WARD 10 OF LGA 9
 
 
 
