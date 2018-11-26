@@ -11,12 +11,9 @@ $text = $_POST["text"];
 
 $display = "**************************\n
     <pre style = \"line-height:7px\">
-                ..........\n
-                 ........\n
-                  ......\n
- ##    ##    ###   ....\n
-#  #  #  #  #       ..
-####  ###   #      ....\n
+ ##    ##    ### \n
+#  #  #  #  # 
+####  ###   #  \n
 #  #  #      ###\n
 </pre> 
     **************************\n";
@@ -2674,6 +2671,8 @@ else if ($text == "030511018"){
 //END OF ALL PU IN LGA 5 (ESSIEN UDIM)
 
 //START OF PU IN WARD 1 OF LGA 6 (ETIM EKPO)
+
+
 
 else if ($text == "030601001"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH, UTU NSEHE\n";
