@@ -2478,9 +2478,6 @@ else if ($text == "030509014"){
   $response .= "END YOUR POLLING UNIT IS \n";
   $response .= $display;
   $response .= $message;
-}\n";
-  $response .= $display;
-  $response .= $message;
 }
 else if ($text == "030509015"){
   $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT OFFIONG\n";
@@ -2533,7 +2530,6 @@ else if ($text == "030509024"){
   $response .= $message;
 }
 
-/**
 //END OF PU IN WARD 9 OF LGA 5
 
 else if ($text == "030510001"){
