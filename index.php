@@ -2031,7 +2031,7 @@ else if ($text == "030502014"){
 }
 
 //END OF PU IN WARD 2 OF LGA 5
-
+/**
 else if ($text == "030503001"){
   $response .= "END YOUR POLLING UNIT IS V/HALL, EKPEYONG ATAI 1\n";
   $response .= $display;
@@ -2804,7 +2804,7 @@ else if ($text == "030603009"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 //END OF PU IN WARD 3 OF LGA 6
 
 else if ($text == "030604001"){
