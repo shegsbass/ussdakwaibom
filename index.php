@@ -190,7 +190,6 @@ else if ($text == "030103009"){
 
 //End of pulling unit in Ward 3 of Local government 1.
 
-/**
 else if ($text == "030104001"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH, ABAK ITENGE\n";
   $response .= $display;
@@ -2305,6 +2304,8 @@ else if ($text == "030507009"){
 }
 
 //END OF PU IN WARD 7 OF LGA 5
+
+/**
 
 else if ($text == "030508001"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT ESSIEN\n";
