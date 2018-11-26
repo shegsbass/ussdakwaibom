@@ -9,17 +9,14 @@ $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 
-$display = "**************************\n
-    <pre style = \"line-height:6px; line-weight:6px\">
+$display = "<pre style = \"line-height:6px; line-weight:6px\">
                 ..........\n  
                  ........\n    
                   ......\n
  ##    ##    ###   ....\n
 #  #  #  #  #       ..
 ####  ###   #      ....\n
-#  #  #      ###\n
-</pre> 
-    **************************\n";
+#  #  #      ###\n </pre>";
 
 $message = "Your text goes here\n";
 
