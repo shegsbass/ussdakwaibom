@@ -2203,7 +2203,7 @@ else if ($text == "030505018"){
 
 
 //END OF PU IN WARD 5 OF LGA 5
-/**
+
 else if ($text == "030506001"){
   $response .= "END YOUR POLLING UNIT IS V/HALL, IKOT UMOESSIEN\n";
   $response .= $display;
@@ -2664,7 +2664,7 @@ else if ($text == "030511018"){
   $response .= $display;
   $response .= $message;
 }
-
+/**
 //END OF PU IN WARD 11 OF LGA 5
 
 //END OF ALL PU IN LGA 5 (ESSIEN UDIM)
