@@ -2533,7 +2533,7 @@ else if ($text == "030509024"){
   $response .= $message;
 }
 
-
+/**
 //END OF PU IN WARD 9 OF LGA 5
 
 else if ($text == "030510001"){
@@ -2664,7 +2664,7 @@ else if ($text == "030511018"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 //END OF PU IN WARD 11 OF LGA 5
 
 //END OF ALL PU IN LGA 5 (ESSIEN UDIM)
