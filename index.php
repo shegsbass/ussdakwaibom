@@ -10,7 +10,7 @@ $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 
 $display = "**************************\n
-    <pre style = \"line-height:7px\">
+    <pre style = \"line-height:6px; line-weight:6px\">
                 ..........\n  
                  ........\n    
                   ......\n
