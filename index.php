@@ -2854,7 +2854,7 @@ else if ($text == "030604009"){
 }
 
 //END OF PU IN WARD 4 OF LGA 6
-
+/**
 else if ($text == "030605001"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH, NTO EDET\n";
   $response .= $display;
@@ -3116,7 +3116,7 @@ else if ($text == "030610007"){
 //END OF ALL PU IN LGA 6
 
 //START OF PU IN WARD 1 OF LGA 7
-/**
+
 else if ($text == "030701001"){
   $response .= "END YOUR POLLING UNIT IS CENTRAL SCH, ETINAN\n";
   $response .= $display;
