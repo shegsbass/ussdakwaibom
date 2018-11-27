@@ -35,9 +35,9 @@ $display = "<pre style = \"line-height:10px; line-width:3px\">
 \     /  ___  _____  ___ \n   
  \   /  |   |   |   |___ \n 
    \/   |___|   |   |___ \n  
-   |\   |  ___    |\  /|  -- \n
-   |  \ | |___  | | \/ | /__\ \n
-   |   \   ___| | |    | |  | \n
+|\   |  ___    |\  /|  -- \n
+|  \ | |___  | | \/ | /__\ \n
+|   \   ___| | |    | |  | \n
 </pre>";
 $message = "Because Akwa Ibom Deserves Better.\n";
 
