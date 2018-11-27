@@ -5844,7 +5844,7 @@ else if ($text == "032308009"){
 }
 
 // POLLING UNITS FOR WARD 09 UNDER LGA 23
-
+/**
 else if ($text == "032309001"){
   $response .= "END Your polling unit is MARKET SQUARE, ATIABANG\n";
   $response .= $display;
