@@ -5950,7 +5950,7 @@ else if ($text == "032310009"){
 }
 
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
-/**
+
 else if ($text == "032401001"){
   $response .= "END Your polling unit is TOWN HALL, AWA IMAN I\n";
   $response .= $display;
@@ -6644,7 +6644,7 @@ else if ($text == "032412010"){
   $response .= $display;
   $response .= $message;
 }
-
+/**
 // WARD 01 OF LGA 25
 
 else if ($text == "032501001"){
