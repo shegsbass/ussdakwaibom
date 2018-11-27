@@ -5959,7 +5959,7 @@ else if ($text == "032310009"){
   $response .= $message;
 }
 else{
- $response .= "Hello there,\nI think you did'nt input the right PU code, kindly check your card and try again.";
+ $response .= "END Hello there,\nI think you didn't input the right PU code, kindly check your card and try again.";
 }
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
 /**
