@@ -10158,7 +10158,7 @@ else if ($text == "033111001"){
 }
 
 else{
-  $response .= "END Please input a correct PU code."
+  $response .= "END Please input a correct PU code.";
 }
 
 //END OF ALL PU IN ALL WARDS AND LGA IN AKWA IBOM STATE
