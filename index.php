@@ -10157,10 +10157,6 @@ else if ($text == "033111001"){
   $response .= $message;
 }
 
-else{
-  $response .= "END Please input a correct PU code.";
-}
-
 //END OF ALL PU IN ALL WARDS AND LGA IN AKWA IBOM STATE
 //HERE IS WHERE MELODY STOP CODING
 
