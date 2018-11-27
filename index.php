@@ -31,7 +31,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 $message = "Because Akwa Ibom Deserves Better.\n";
 **/
-$display = "<pre style = \"line-height:15px; line-width:5px\">
+$display = "<pre style = \"line-height:10px; line-width:3px\">
 \     /  ___  _____  ___ \n   
  \   /  |   |   |   |___ \n 
    \/   |___|   |   |___ \n  
