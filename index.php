@@ -29,7 +29,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
  ----  |--   |      ----\n
  |  |  |      ---\n </pre>";
 
-$message = "Your text goes here\n";
+$message = "Because Akwa Ibom Deserves Better.\n";
 
 
 if ( $text == "" ) {
@@ -5958,7 +5958,9 @@ else if ($text == "032310009"){
   $response .= $display;
   $response .= $message;
 }
-
+else{
+ $response .= "Hello there,\nI think you did'nt input the right PU code, kindly check your card and try again.";
+}
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
 /**
 else if ($text == "032401001"){
