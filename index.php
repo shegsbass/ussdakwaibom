@@ -6174,7 +6174,7 @@ else if ($text == "032403019"){
 }
 
 //POLLING UNITS FOR WARD 04 UNDER LGA 24
-
+/**
 else if ($text == "032404001"){
   $response .= "END Your polling unit is PRY SCH, IKOT UDO ESANG\n";
   $response .= $display;
@@ -6378,7 +6378,7 @@ else if ($text == "032406009"){
 }
 
 // WARD 7 OF LGA 24
-/**
+
 else if ($text == "032407001"){
   $response .= "END Your polling unit is TOWN HALL, IKOT AKPATEK\n";
   $response .= $display;
