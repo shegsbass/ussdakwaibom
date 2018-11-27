@@ -5576,7 +5576,7 @@ else if ($text == "032302007"){
 }
 
 // POLLING UNIT 03 UNDER LGA 23
-
+/**
 else if ($text == "032303001"){
   $response .= "END Your polling unit is MBAWA HALL, EBIGHI EDU\n";
   $response .= $display;
@@ -5758,7 +5758,7 @@ else if ($text == "032306007"){
 }
 
 //POLLING UNITS FOR WORD 07 UNDER LGA 23
-/**
+
 else if ($text == "032307001"){
   $response .= "END Your polling unit is GOVT.SCH EWEME\n";
   $response .= $display;
