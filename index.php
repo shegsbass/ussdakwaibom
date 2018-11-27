@@ -5398,7 +5398,7 @@ else if ($text == "032208009"){
 }
 
 //POLLING UNIT UNDER WARD 10 OF LOCAL GOVT 22
-
+/**
 else if ($text == "032210001"){
   $response .= "END Your polling unit is VILLAGE HALL,NTO ESU\n";
   $response .= $display;
@@ -5939,7 +5939,7 @@ else if ($text == "032310007"){
   $response .= $message;
 }
 else if ($text == "032310008"){
-  $response .= "END Your pol8ling unit is METH SCH, ESUK INWANG\n";
+  $response .= "END Your polling unit is METH SCH, ESUK INWANG\n";
   $response .= $display;
   $response .= $message;
 }
@@ -5948,7 +5948,7 @@ else if ($text == "032310009"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
 
 else if ($text == "032401001"){
