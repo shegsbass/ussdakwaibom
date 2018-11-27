@@ -5948,7 +5948,7 @@ else if ($text == "032310009"){
   $response .= $display;
   $response .= $message;
 }
-
+/**
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
 
 else if ($text == "032401001"){
@@ -6174,7 +6174,6 @@ else if ($text == "032403019"){
 }
 
 //POLLING UNITS FOR WARD 04 UNDER LGA 24
-/**
 
 else if ($text == "032404001"){
   $response .= "END Your polling unit is PRY SCH, IKOT UDO ESANG\n";
