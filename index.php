@@ -5398,7 +5398,7 @@ else if ($text == "032208009"){
 }
 
 //POLLING UNIT UNDER WARD 10 OF LOCAL GOVT 22
-/**
+
 else if ($text == "032210001"){
   $response .= "END Your polling unit is VILLAGE HALL,NTO ESU\n";
   $response .= $display;
@@ -5499,7 +5499,7 @@ else if ($text == "032209007"){
 }
 
 //POLLING UNIT UNDER WARD 01 OF LOCAL GOVT 23
-
+/**
 else if ($text == "032301001"){
   $response .= "END Your polling unit is VILLAGE SQUARE,MBIEDUO/ANUA OKOPEDI\n";
   $response .= $display;
