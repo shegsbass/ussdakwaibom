@@ -5680,7 +5680,7 @@ else if ($text == "032304009"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 // POLLING UNIT FOR WARD 05 UNDER LGA 23
 
 else if ($text == "032305001"){
@@ -5718,7 +5718,7 @@ else if ($text == "032305007"){
   $response .= $display;
   $response .= $message;
 }
-
+/**
 POLLING UNIT FOR WARD 6 UNDER LGA 23
 
 else if ($text == "032306001"){
