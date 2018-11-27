@@ -21,13 +21,13 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 $message = "Your text goes here\n";
 **/
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
-                ..........\n  
-                 ........\n    
-                  ......\n
-  --    --    ---   ....\n
- /  \ /| /| /|       ..
- ---- /|--  /|      ....\n
-/| /| /|      ---\n </pre>";
+                -----------\n  
+                 ---------\n    
+                  -------\n
+  --    --    ---   ----\n
+ /  \  |  |  |       --
+ ----  |--   |      ----\n
+ |  |  |      ---\n </pre>";
 
 $message = "Your text goes here\n";
 
