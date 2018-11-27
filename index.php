@@ -5576,7 +5576,7 @@ else if ($text == "032302007"){
 }
 
 // POLLING UNIT 03 UNDER LGA 23
-/**
+
 else if ($text == "032303001"){
   $response .= "END Your polling unit is MBAWA HALL, EBIGHI EDU\n";
   $response .= $display;
@@ -6645,7 +6645,7 @@ else if ($text == "032412010"){
   $response .= $message;
 }
 
-
+/**
 // WARD 01 OF LGA 25
 
 else if ($text == "032501001"){
