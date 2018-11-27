@@ -19,7 +19,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 #  #  #      ###\n </pre>";
 
 $message = "Your text goes here\n";
-**/
+
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 -----------\n  
                  ---------\n    
@@ -30,7 +30,13 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
  |  |  |      ---\n </pre>";
 
 $message = "Because Akwa Ibom Deserves Better.\n";
+**/
+$display = "<pre style = \"line-height:6px; line-weight:6px\">
+\     /  ___  _____  ___   |\   |  ___    |\  /|  --
+ \   /  |   |   |   |___   |  \ | |___  | | \/ | /__\
+   \/   |___|   |   |___   |   \   ___| | |    | |  |
 
+$message = "Because Akwa Ibom Deserves Better.\n";
 
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
