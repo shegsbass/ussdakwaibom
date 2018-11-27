@@ -5718,8 +5718,8 @@ else if ($text == "032305007"){
   $response .= $display;
   $response .= $message;
 }
-/**
-POLLING UNIT FOR WARD 6 UNDER LGA 23
+
+//POLLING UNIT FOR WARD 6 UNDER LGA 23
 
 else if ($text == "032306001"){
   $response .= "END Your polling unit is GOVT. SCH,URUE ITA\n";
@@ -6427,42 +6427,42 @@ else if ($text == "032408001"){
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408002"){
   $response .= "END Your polling unit is PRY SCH,IKOT EBIDANG II\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408003"){
   $response .= "END Your polling unit is PRY SCH,IKOT EBIDANG III\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408004"){
   $response .= "END Your polling unit is VILLAGE SQUARE,IKOT EBIDANG\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408005"){
   $response .= "END Your polling unit is PRY SCH,IKOT EBEKPO I\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408006"){
   $response .= "END Your polling unit is PRY SCH,IKOT EBEKPO II\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408007"){
   $response .= "END Your polling unit is PRY SCH,IKOT EBEKPO III\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408008"){
   $response .= "END Your polling unit is TOWN HALL,IKOT ANNANG I\n";
   $response .= $display;
   $response .= $message;
 }
-else if ($text == "032408001"){
+else if ($text == "032408009"){
   $response .= "END Your polling unit is TOWN HALL,IKOT ANNANG II\n";
   $response .= $display;
   $response .= $message;
