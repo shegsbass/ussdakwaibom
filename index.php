@@ -6378,7 +6378,7 @@ else if ($text == "032406009"){
 }
 
 // WARD 7 OF LGA 24
-
+/**
 else if ($text == "032407001"){
   $response .= "END Your polling unit is TOWN HALL, IKOT AKPATEK\n";
   $response .= $display;
@@ -6644,7 +6644,7 @@ else if ($text == "032412010"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 // WARD 01 OF LGA 25
 
 else if ($text == "032501001"){
