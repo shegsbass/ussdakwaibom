@@ -4572,7 +4572,7 @@ else if ($text == "030910015"){
 //END OF ALL PU IN LGA 9 (IBESIKPO ASUTAN)
 
 //HERE IS WHERE SHEGS STOPS CODING
-
+/**
 //PROSPER'S CODE BASE STARTS HERE
 //STARTING FROM 10-20 
 else if ($text == "031001001"){
@@ -10473,7 +10473,7 @@ else if ($text == "031910008"){
     $response .= $display;
     $response .=$message;
 }
-
+**/
 //END OF PROSPER'S CODE BASE
 //MELODY CODE BASE
 //STARTING FROM LGA 21 TO THE END
