@@ -5968,11 +5968,9 @@ else if ($text == "032310009"){
   $response .= $display;
   $response .= $message;
 }
-else{
- $response .= "END Hello there,\nI think you didn't input the right PU code, kindly check your card and try again.";
-}
+
 // POLLING UNITS FOR WARD 01 UNDER LGA 24
-/**
+
 else if ($text == "032401001"){
   $response .= "END Your polling unit is TOWN HALL, AWA IMAN I\n";
   $response .= $display;
@@ -6097,6 +6095,7 @@ else if ($text == "032402010"){
   $response .= $message;
 }
 
+/**
 //POLLING UNITS FOR WARD 03 UNDER LGA 24
 
 else if ($text == "032403001"){
