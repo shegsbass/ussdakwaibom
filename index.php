@@ -4572,80 +4572,98 @@ else if ($text == "030910015"){
 //END OF ALL PU IN LGA 9 (IBESIKPO ASUTAN)
 
 //HERE IS WHERE SHEGS STOPS CODING
-/**
+
 //PROSPER'S CODE BASE STARTS HERE
 //STARTING FROM 10-20 
 else if ($text == "031001001"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, USE IKOT OKU \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031001002"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT NKIT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001003"){
   $response .= "END YOUR PULLING UNIT IS MARKET SQUARE, OKOPEDI \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001004"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, MBIAMA \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IDIDEP USUK \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001006"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT UKOBO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001007"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT OBONG \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001008"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EKWERE \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT EKWERE \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001010"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT UDO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001011"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA ITIAT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, AFAHA ITIAT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001013"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, NTAN MBAT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001014"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT ETIM \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001015"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT AKPABIO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001016"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT EDIOK \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001017"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, ETAK IKOT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031001018"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, OBOT UKIM \n";
   $response .= $display;
+  $response .= $message;
 }
 
 
@@ -4660,62 +4678,77 @@ else if ($text == "031001018"){
  else if ($text == "031002001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, MBIABAM \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002002"){
   $response .= "END YOUR PULLING UNIT IS S.S.S, IKOT NKO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002003"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT UDO OBUK \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002004"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT ANTIA \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002005"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT ANDEM IDIDEP \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031002006"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, ODORO AKA \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002007"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ODIONG \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002008"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ODIONG IDIDEP \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT UDU \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002010"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH OKPOTO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002011"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT AKPAN ABASI \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT AKPA NYA \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002013"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ESSIEN \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002014"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT INYANG IDIDEP \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031002015"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT INYANG EKPOT \n";
   $response .= $display;
+  $response .= $message;
 }
 
 
@@ -4729,58 +4762,72 @@ else if ($text == "031002015"){
  else if ($text == "031003003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA UTUAT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003002"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA NSAI \n";
   $response .= $display;
+  $response .= $message; 
 }
 else if ($text == "031003003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, ANAM \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031003004"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IDRE \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031003005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, ITU ATAN \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031003006"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT AMBIT \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031003007"){
   $response .= "END YOUR PULLING UNIT ISVILLAGE HALL, IKPA IKOT UBO \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031003008"){
   $response .= "END YOUR PULLING UNIT ISVILLAGE HALL, NDOROBOT \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT MKPO \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003010"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBIO EDEP \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003011"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, OBOT UKANA \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, NTAN NSAI \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003013"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, NSAN \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031003014"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ANDIA \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -4795,58 +4842,72 @@ else if ($text == "031003014"){
 else if ($text == "031004001"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA UTUAT \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004002"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA NSAI \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, ANAM \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004004"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IDRE \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, ITU ATAN \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004006"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT AMBIT \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004007"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKPA IKOT UBO \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004008"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, NDOROBOT \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT MKPO \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004010"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBIO EDEP \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004011"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, OBOT UKANA \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, NTAN NSAI \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004013"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, NSAN \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031004014"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ANDIA \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -4860,45 +4921,54 @@ else if ($text == "031004014"){
  //WARD 05 IBIONO SOUTHERN 1
 
 else if ($text == "031005001"){
-  $response .= "END YOUR PULLING UNIT IS  
-PRY SCH, USE IKOT EKOP  \n";
+  $response .= "END YOUR PULLING UNIT IS  PRY SCH, USE IKOT EKOP  \n";
 $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005002"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKIDIP  \n";
   $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031005003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EKOP OBIO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005004"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT AKPABIO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005005"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, IKOT AMBANG \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005006"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, MBIABAN \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005007"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, OBIO IBIONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005008"){
   $response .= "END YOUR PULLING UNIT IS TECH COLLEGE, IKOT ADA IDEM  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, OKOBO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031005010"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EKWERE  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -4910,53 +4980,64 @@ else if ($text == "031005010"){
  //WARD 06 IBIONO SOUTHERN 11
 
  else if ($text == "031006001"){
-  $response .= "END YOUR PULLING UNIT IS  
-LOTT. C. AFAHA OBIO ENO \n";
+  $response .= "END YOUR PULLING UNIT IS LOTT. C. AFAHA OBIO ENO \n";
 $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031006002"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKPA IBIONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKPA IDAHA  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006004"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT OSUKPONG  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006005"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EFUN  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006006"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIAKPAN  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006007"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, NKIM  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006008"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIAKPAN IKOT EDIM  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006009"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, ASANGTING  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006010"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, USE NTAN  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006011"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, USE IBIAKU IKOT UKPONG \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031006012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, USE IBIAKU IKOT UKPONG  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -4966,75 +5047,91 @@ else if ($text == "031006012"){
 
  //STARTING FROM THE 10TH LOCAL GOVT. IBIONO IBOM
  //WARD 07 IBIONO NORTHERN 1
-
+/**
  else if ($text == "031007001"){
-  $response .= "END YOUR PULLING UNIT IS 
-VILLAGE HALL, IKOT ODUBE  \n";
-$response .= $display;
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ODUBE  \n";
+  $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031007002"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, IKOT ESIFA \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007003"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT EKPE  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "03100704"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT AKPAN OKPON  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ESEN  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007006"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, USE IKOT ASANA  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007007"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, NTA IKTO USE  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007008"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, EKIMBUK \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007009"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE , EKIMBUK \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007010"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, AKA IKOT UDO ENO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007011"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, OMU EKENE \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007012"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IKOT UBE \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007013"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, OBOT OKO  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007014"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, AFUA \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007015"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ABASI INYANG  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007016"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, INWUN USE  \n";
   $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031007017"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ESIDEN  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -5051,106 +5148,127 @@ else if ($text == "031007017"){
 else if ($text == "031008001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBOM  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008002"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ABIA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008003"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ANTIA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008004"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EKOI  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008005"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, IKOT OBO \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008006"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ENYIN  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008007"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT UBO ONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008008"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT UBO ONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008009"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, IKOT NYA ONO \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008010"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT IFOT ONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008011"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT IFOT ONO  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008012"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT UDO UKANA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008013"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, MBUK IDORO \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008014"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT UWA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008015"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBO AFAHA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008016"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ETO IDORO  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008017"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, IKOT UDO UKANA \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008018"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, AFAHA ISE \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008019"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, AFAHA ISE  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008020"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT UDO UKANA  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031008021"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, AFAHA ISE  \n";
   $response .= $display;
+ $response .= $message;
 }
 
 
@@ -5166,81 +5284,97 @@ else if ($text == "031008021"){
 else if ($text == "031009001"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IBIATUK \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009002"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, USUK NTAN EKERE  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009003"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, UDIAHA NTAN \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009004"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT ABA  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IBIAKU IKOT OKU  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009006"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT EKPENE  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009007"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT EKPENE  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009008"){
   $response .= "END YOUR PULLING UNIT IS I.C.H.S EDEM URUA  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009009"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, ITU ANDEM  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009010"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT EDUNG  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009011"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBIO ASA  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009012"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, NDON NDEM IKOT OBO \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009013"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL IKOT OBIO AKPAN  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009014"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ISO  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009015"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT IDEM NTAN  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 else if ($text == "031009016"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT UKPONG  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 
@@ -5254,62 +5388,77 @@ else if ($text == "031009016"){
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS  W.D.C IKPA IKOT UNIEKE  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, OKO ITA  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS   PRY SCH, IKOT ESSIET \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IKOT EDUNG  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, ITUKHE  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010016"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IKOT ANTIA  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010007"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IKOT UBA  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010008"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, IKOT INYANG  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010009"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, IKOT EKPEYONG  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010010"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, IKOT UNEKE  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010011"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, IKOT UDO EFUM  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010012"){
   $response .= "END YOUR PULLING UNIT IS   VILLAGE HALL, IKOT UKANA \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010013"){
   $response .= "END YOUR PULLING UNIT IS  PRY SCH, OSUK NTAN  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010014"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE HALL, EKPUK  \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031010015"){
   $response .= "END YOUR PULLING UNIT IS  TOWN HALL, IKOT UDOM  \n";
     $response .= $display;
+ $response .= $message;
 }
 
 
@@ -5320,25 +5469,29 @@ else if ($text == "031010015"){
  //WARD 11 IBIONO IKPANYA
 
  else if ($text == "031011001"){
-  $response .= "END YOUR PULLING UNIT IS 
-VILLAGE SQUARE, IKOT ADAHA \n";
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ADAHA \n";
     $response .= $display;
+  $response .= $message;
 }
 else if ($text == "031011002"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, MBAK UNO \n";
     $response .= $display;
+    $response .= $message;
 }
 else if ($text == "031011003"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, ESIT IKPANYA \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031011004"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, AKANI OBIO \n";
     $response .= $display;
+ $response .= $message;
 }
 else if ($text == "031011005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, ABURU \n";
     $response .= $display;
+ $response .= $message;
 }
 //CONCLUDED FOR IBIONO IBOM LOCAL GOVT.
 
@@ -5406,7 +5559,7 @@ else if ($text == "031101008"){
  else if ($text == "031102001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, EFEN IBOM \n";
     $response .= $display;
-    $response .=$message;
+    $response .= $message;
 }
 else if ($text == "031102002"){
   $response .= "END YOUR PULLING UNIT IS CONVENT SCH, EFEN IBOM \n";
@@ -5416,7 +5569,7 @@ else if ($text == "031102002"){
 else if ($text == "031102003"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT UDONYAH \n";
     $response .= $display;
-    $response .=$message;
+    $response .= $message;
 }
 else if ($text == "031102004"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT OKORO I \n";
@@ -5426,12 +5579,12 @@ else if ($text == "031102004"){
 else if ($text == "031102005"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT OKORO II \n";
     $response .= $display;
-    $response .=$message;
+    $response .= $message;
 }
 else if ($text == "031102006"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE IKOT UKANG   \n";
     $response .= $display;
-    $response .=$message;
+    $response .= $message;
 }
 
 
@@ -5446,7 +5599,7 @@ else if ($text == "031102006"){
  else if ($text == "031103001"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, ACHAN  \n";
     $response .= $display;
-    $response .=$message;
+    $response .= $message;
 }
 else if ($text == "031103002"){
   $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, IKOT OSUKPONG  \n";
