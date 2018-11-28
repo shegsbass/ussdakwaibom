@@ -5542,7 +5542,8 @@ else if ($text == "031101007"){
     $response .=$message;
 }
 else if ($text == "031101008"){
-  $response .= "END YOUR PULLING UNIT IS COUNSIL SECRETARIAT, URUA IYANG \n";
+  $response .= "END YOUR PULLING UNIT IS 
+  COUNSIL SECRETARIAT, URUA IYANG \n";
     $response .= $display;
     $response .=$message;
 }
