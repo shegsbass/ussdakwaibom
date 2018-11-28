@@ -18,7 +18,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 ####  ###   #      ....\n
 #  #  #      ###\n </pre>";
 
-$message = "Your text goes here\n";
+$message = "Because Akwa Ibom Deserves Better.\n";
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 -----------\n  
@@ -10176,14 +10176,12 @@ else if ($text == "033111001"){
   $response .= $display;
   $response .= $message;
 }
+else{
+  $response .= "END Hi there, \n I think you didn't input the right PU code, please check your Card and try again.\n";
+}
 
 //END OF ALL PU IN ALL WARDS AND LGA IN AKWA IBOM STATE
 //HERE IS WHERE MELODY STOP CODING
-
-
-
-
-
 
 /**
 
