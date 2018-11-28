@@ -10224,6 +10224,7 @@ if(isset($_POST['message'])){
 // $query1 = "INSERT INTO message (message) VALUES ('$msg')";
 
 //updating
+**/
 
 // Print the response onto the page so that our gateway can read it
 
