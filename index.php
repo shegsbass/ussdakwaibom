@@ -5505,7 +5505,7 @@ else if ($text == "031011005"){
 
 //STARTING FROM THE 11TH LOCAL GOVT. IKA
  //WARD 01 URBAN 1
-/**
+
  else if ($text == "031101001"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, URUA INYANG\n";
     $response .= $display;
@@ -5555,7 +5555,7 @@ else if ($text == "031101008"){
 
 //STARTING FROM THE 11TH LOCAL GOVT. IKA
  //WARD 02 URBAN 11
-
+/**
  else if ($text == "031102001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, EFEN IBOM \n";
     $response .= $display;
