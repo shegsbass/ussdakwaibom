@@ -5556,7 +5556,7 @@ else if ($text == "031101008"){
 
 //STARTING FROM THE 11TH LOCAL GOVT. IKA
  //WARD 02 URBAN 11
-/**
+
  else if ($text == "031102001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, EFEN IBOM \n";
     $response .= $display;
@@ -10627,7 +10627,7 @@ else if ($text == "031910008"){
     $response .= $display;
     $response .=$message;
 }
-**/
+
 //END OF PROSPER'S CODE BASE
 //MELODY CODE BASE
 //STARTING FROM LGA 21 TO THE END
