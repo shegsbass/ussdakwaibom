@@ -5047,7 +5047,7 @@ else if ($text == "031006012"){
 
  //STARTING FROM THE 10TH LOCAL GOVT. IBIONO IBOM
  //WARD 07 IBIONO NORTHERN 1
-/**
+
  else if ($text == "031007001"){
   $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT ODUBE  \n";
   $response .= $display;
@@ -5505,7 +5505,7 @@ else if ($text == "031011005"){
 
 //STARTING FROM THE 11TH LOCAL GOVT. IKA
  //WARD 01 URBAN 1
-
+/**
  else if ($text == "031101001"){
   $response .= "END YOUR PULLING UNIT IS PRY SCH, URUA INYANG\n";
     $response .= $display;
