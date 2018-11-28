@@ -6041,7 +6041,7 @@ else if ($text == "032401013"){
   $response .= $display;
   $response .= $message;
 }
-/**
+
 //POLLING UNITS FOR WARD 02 UUNDER LGA 24
 
 else if ($text == "032402001"){
@@ -10224,10 +10224,6 @@ if(isset($_POST['message'])){
 // $query1 = "INSERT INTO message (message) VALUES ('$msg')";
 
 //updating
-**/
-
-
-
 
 // Print the response onto the page so that our gateway can read it
 
