@@ -42,17 +42,22 @@ $display = "<pre style = \"line-height:10px; line-width:3px\">
 </pre>";
 $message = "Because Akwa Ibom Deserves Better.\n";
 **/
-if ( $text == "" ) {
+if ($text == ""){
+//Tell user to input one akwa-ibom
+ 
+ $response .= " CON Please input 1akwaibom below \n";
+}
+else if ( $text == "1akwaibom" ) {
 // Show all LGA in Akwa Ibom
 
-$response = "CON Enter Your PU code\n";
+$response .= "CON Enter Your PU code\n";
 }
 
-  else if ($text == "030101001"){
+  else if ($text == "1akwaibom*030101001"){
   $response .= "END YOUR POLLING UNIT IS VILLAGE SQUARE, IKOT AKWA IBOM \n";
   $response .= $display;
 }
-
+/**
 else if ($text == "030101002"){
   $response .= "END YOUR POLLING UNIT IS PRY SCH, IKOT OBONG EDIENE\n";
    $response .= $display;
