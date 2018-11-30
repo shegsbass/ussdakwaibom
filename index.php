@@ -32,7 +32,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 **/
 
-$display = "<pre style = \"line-height:10px; line-width:3px\">
+$display = "<pre style = \"line-height:6px; line-width:3px\">
 #    #  ###  ### ### \n   
  #  #  #   #  #  ## \n 
    #    ###   #  ###\n  
