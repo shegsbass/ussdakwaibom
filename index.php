@@ -32,13 +32,14 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 **/
 
-$display = "<pre style = \"line-height:6px; line-width:3px\">
+$display = "<pre style = \"line-height:7px; line-width:3px\">
 #    #  ###  ### ### \n   
  #  #  #   #  #  ## \n 
-   #    ###   #  ###\n  
+   #    ###   #  ###\n 
+ \n  
 #   # ### # #   #  ## \n
-# # # #__ # ## ## #__#\n
-#  ## __# # # # # #  #\n
+# # # #_  # ## ## #__#\n
+#  ##  _# # # # # #  #\n
 </pre>";
 
 /**
