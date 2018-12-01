@@ -8526,7 +8526,6 @@ else if ($text == "031408009"){
 
 
 
-/**
  
 //STARTING FROM THE 16TH LOCAL GOVT. ITU
  //WARD 01 OKU IBOKU
@@ -9064,7 +9063,7 @@ else if ($text == "031610008"){
 
 
 
-
+/**
 
 //STARTING FROM THE 17TH LOCAL GOVT. MBO
  //WARD 01 ENWANG
