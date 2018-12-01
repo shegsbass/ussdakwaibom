@@ -9439,7 +9439,6 @@ else if ($text == "031710003"){
 }
 
 
-/**
 
 
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
@@ -10179,7 +10178,7 @@ else if ($text == "031814005"){
 
 
 
-
+/**
 
 //STARTING FROM THE 19TH LOCAL GOVT. NSIT ATAI
  //WARD 01 EASTERN NSIT 1
