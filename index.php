@@ -9866,9 +9866,6 @@ else if ($text == "031807017"){
 
 
 
-
-/**
-
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
  //WARD 08 IKPA IBOM IV
 
@@ -9912,8 +9909,6 @@ else if ($text == "031808008"){
     $response .= $display;
     $response .=$message;
 }
-
-
 
 
 
@@ -9969,7 +9964,7 @@ else if ($text == "031809009"){
 
 
 
-
+/**
 
 
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
