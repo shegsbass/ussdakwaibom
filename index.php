@@ -9947,7 +9947,7 @@ else if ($text == "031809006"){
 else if ($text == "031809007"){
   $response .= "END Your polling unit is PRY SCH, IKOT EBAK II \n";
     $response .= $display;
-    $response .=$message7
+    $response .=$message;
 }
 else if ($text == "031809008"){
   $response .= "END Your polling unit is VILLAGE SQUARE, IKOT AKA \n";
@@ -9962,7 +9962,7 @@ else if ($text == "031809009"){
 
 
 
-/**
+
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
  //WARD 10 IKPA IBIAKU II
 
@@ -10010,7 +10010,7 @@ else if ($text == "031810008"){
 
 
 
-
+/**
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
  //WARD 11 IKPA IBIAKU III
 
