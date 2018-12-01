@@ -8000,8 +8000,6 @@ else if ($text == "031408009"){
 
 
 
-
-/**
  
 //STARTING FROM THE 15TH LOCAL GOVT. INI
  //WARD 01 IKPE 1
@@ -8528,7 +8526,7 @@ else if ($text == "031408009"){
 
 
 
-
+/**
  
 //STARTING FROM THE 16TH LOCAL GOVT. ITU
  //WARD 01 OKU IBOKU
