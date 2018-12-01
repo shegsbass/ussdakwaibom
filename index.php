@@ -9852,7 +9852,7 @@ else if ($text == "031807015"){
     $response .= $display;
     $response .=$message;
 }
-else if ($text == "0318070116"){
+else if ($text == "031807016"){
   $response .= "END Your polling unit is VILLAGE HALL, IKOT ENIN \n";
     $response .= $display;
     $response .=$message;
