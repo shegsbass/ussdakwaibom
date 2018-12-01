@@ -5566,7 +5566,7 @@ else if ($text == "031101008"){
 
 
 
-/**
+
 //STARTING FROM THE 11TH LOCAL GOVT. IKA
  //WARD 02 URBAN 11
 
@@ -5939,7 +5939,7 @@ else if ($text == "031110006"){
 
 
 
-
+/**
 //STARTING FROM THE 12TH LOCAL GOVT. IKONO
  //WARD 01 IKONO MIDDLE 1
 
