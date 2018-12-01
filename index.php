@@ -9964,8 +9964,6 @@ else if ($text == "031809009"){
 
 
 
-/**
-
 
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
  //WARD 10 IKPA IBIAKU II
@@ -10010,7 +10008,6 @@ else if ($text == "031810008"){
     $response .= $display;
     $response .=$message;
 }
-
 
 
 
@@ -10171,7 +10168,7 @@ else if ($text == "031814005"){
 
 
 
-
+/**
 //STARTING FROM THE 19TH LOCAL GOVT. NSIT ATAI
  //WARD 01 EASTERN NSIT 1
 
