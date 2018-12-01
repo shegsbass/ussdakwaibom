@@ -7382,7 +7382,7 @@ else if ($text == "031310009"){
 
 
 
-/**
+
 
 //STARTING FROM THE 14TH LOCAL GOVT. IKOT EKPENE
  //WARD 01 IKOT EKPENE 1
@@ -8001,7 +8001,7 @@ else if ($text == "031408009"){
 
 
 
-
+/**
  
 //STARTING FROM THE 15TH LOCAL GOVT. INI
  //WARD 01 IKPE 1
