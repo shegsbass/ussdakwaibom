@@ -9063,7 +9063,6 @@ else if ($text == "031610008"){
 
 
 
-/**
 
 //STARTING FROM THE 17TH LOCAL GOVT. MBO
  //WARD 01 ENWANG
@@ -9440,7 +9439,7 @@ else if ($text == "031710003"){
 }
 
 
-
+/**
 
 
 //STARTING FROM THE 18TH LOCAL GOVT. MKPAT ENIN
