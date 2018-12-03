@@ -43,8 +43,8 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 </pre>";
 **/
 $display = "<pre style = \"line-height:7px; line-width:0px;\">
-\    /‖˭˭‖˭‖˭‖͇˭  ‖\ ‖‖͇˭͇˭ ‖‖\/‖ /̳\   \n
-  \/  ‖͇ ͇ ‖  ‖ ‖̳ ̳  ‖ \‖  ͇ ͇‖‖‖  ‖/   \ \n
+\  /‖˭˭‖˭‖˭‖͇˭  ‖\ ‖‖͇˭͇˭ ‖‖\/‖ /̳\   \n
+ \/ ‖͇ ͇ ‖ ‖ ‖̳ ̳  ‖ \‖  ͇ ͇‖‖‖  ‖/  \ \n
 </pre>";
 
 /**
