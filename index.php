@@ -32,7 +32,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 **/
 
-$display = "<pre style = \"line-height:7px; line-width:2px\">
+/**$display = "<pre style = \"line-height:7px; line-width:2px\">
 #    #  ###  ### ### \n   
  #  #  #   #  #  ## \n 
    #    ###   #  ###\n 
@@ -40,6 +40,11 @@ $display = "<pre style = \"line-height:7px; line-width:2px\">
 #   # ### # #   #  ## \n
 # # # #_  # ## ## #__#\n
 #  ## __# # # # # #  #\n
+</pre>";
+**/
+$display = "<pre style = \"line-height:7px; line-width:2px\">
+ \\  // ‖˭˭‖ ˭˭‖˭˭ ‖͇˭͇˭   ‖\ ‖ ‖͇˭͇˭ ‖ ‖\/‖  //͇\\  \n
+  \\//  ‖̳ ̳ ̳‖   ‖   ‖̳ ̳    ‖ \‖  ͇ ͇‖ ‖ ‖  ‖ //  \\  \n
 </pre>";
 
 /**
