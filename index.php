@@ -8,7 +8,7 @@ $sessionId = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
-$message = "Because Akwa Ibom Deserves Better.\n";
+$message = "<i>Because Akwa Ibom Deserves Better.</i>\n";
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 ..........\n  
@@ -43,8 +43,8 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 </pre>";
 **/
 $display = "<pre style = \"line-height:10px; line-width:2px\">
- \   /‖˭˭‖˭‖˭ ‖͇˭͇˭ ‖\ ‖‖͇˭͇˭ ‖‖\/‖ //̳\ \n
-  \\// ‖̳ ̳ ̳‖ ‖  ‖̳ ̳  ‖ \‖ ͇ ‖ ‖‖  ‖// \\ \n
+ \   /‖˭˭‖˭‖˭‖͇˭͇˭ ‖\ ‖‖͇˭͇˭‖‖\/‖ //̳\ \n
+  \\// ‖̳ ̳ ̳‖ ‖ ‖̳ ̳  ‖ \‖ ͇ ‖‖‖  ‖// \\ \n
 </pre>";
 
 /**
