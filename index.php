@@ -47,10 +47,6 @@ $display = "<pre style = \"line-height:7px; line-width:0px;\">
  \  / ‖ ̿ ‖ ̿  ‖̿  ‖̿
   \/  ‖‗‖   ‖  ‖͇̿
 
-
-/**\\  //‖˭˭‖˭‖˭‖͇˭ ‖\ ‖‖͇˭͇˭‖‖\/‖ //̳\\ \n
- \\// ‖͇ ͇ ‖ ‖ ‖̳  ‖ \‖ ͇ ‖‖‖  ‖//  \\ \n**/
-
 </pre>";
 
 /**
@@ -65,6 +61,8 @@ $display = "<pre style = \"line-height:10px; line-width:3px\">
 </pre>";
 
 **/
+
+
 
 if ( $text == "" ) {
 // Show all LGA in Akwa Ibom
