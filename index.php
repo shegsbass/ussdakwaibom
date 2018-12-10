@@ -11,15 +11,16 @@ $text = $_POST["text"];
 $message = "Because Akwa Ibom Deserves Better.\n";
 
 /**$display = "I am testing \n";**/
+/**<pre style = \"line-height:6px; line-weight:6px\">**/
 
-$display = "<pre style = \"line-height:6px; line-weight:6px\">
+$display = "
                 ..........\n  
                  ........\n    
                   ......\n
  ##    ##    ###   ....\n
 #  #  #  #  #       ..
 ####  ###   #      ....\n
-#  #  #      ###\n </pre>";
+#  #  #      ###\n";
 
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
