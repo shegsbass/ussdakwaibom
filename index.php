@@ -9,6 +9,8 @@ $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "<i>Because Akwa Ibom Deserves Better.</i>\n";
+
+$display = "I am testing";
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 ..........\n  
@@ -42,13 +44,14 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 #  ## __# # # # # #  #\n
 </pre>";
 **/
+/**
 $display = "<pre style = \"line-height:10px; line-width:0px;\">
 
  \  / ‖̿ ‖ ̿ ‖̿
   \/  ‖͇ ‖  ‖
 
 </pre>";
-
+**/
 /**
 $display = "<pre style = \"line-height:10px; line-width:3px\">
 # # ### ### ###\n
