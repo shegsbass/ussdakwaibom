@@ -8,10 +8,10 @@ $sessionId = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];
 $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
-$message = "<i>Because Akwa Ibom Deserves Better.</i>\n";
+$message = "Because Akwa Ibom Deserves Better.\n";
 
-$display = "I am testing";
-/**
+/**$display = "I am testing \n";**/
+
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 ..........\n  
                  ........\n    
@@ -21,7 +21,6 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 ####  ###   #      ....\n
 #  #  #      ###\n </pre>";
 
-**/
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 -----------\n  
