@@ -10,10 +10,7 @@ $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "Because Akwa Ibom Deserves Better.\n";
 
-$display = " ##     ##     ###\n
-#  #   #  #   #\n
-####   ###    #\n
-#  #   #       ###";
+$display = "animation goes here";
 /**<pre style = \"line-height:6px; line-weight:6px\">
 
 $display = "
