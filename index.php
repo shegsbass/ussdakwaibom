@@ -16,9 +16,11 @@ $display = "*   *  ***  *  *   *    **
 *  **  __*  *  *   *  *   *\n";
 **/
 
-$display = "VOTE NSIMA - VOTE NSIMA
+$display = "********************
+VOTE NSIMA - VOTE NSIMA
 VOTE 2345671965 NSIMA
-VOTE NSIMA - VOTE NSIMA\n";
+VOTE NSIMA - VOTE NSIMA
+********************\n";
 
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
