@@ -12,7 +12,7 @@ $message = "Because Akwa Ibom Deserves Better.\n";
 
 $display = "*   *  ***  *  *   *    **
 * * *  *_   *  * * *  *__*
-*  **  __*  *  *   *  *  *\n";
+*  **  __*  *  *   *  *   *\n";
 
 
 /**<pre style = \"line-height:6px; line-weight:6px\">
