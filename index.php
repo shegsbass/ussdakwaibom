@@ -16,17 +16,10 @@ $display = "*   *  ***  *  *   *    **
 *  **  __*  *  *   *  *   *\n";
 **/
 
-/**<pre style = \"line-height:6px; line-weight:6px\">
+$display = "VOTE NSIMA - VOTE NSIMA
+VOTE 2345671965 NSIMA
+VOTE NSIMA - VOTE NSIMA\n"
 
-$display = "
-                ..........\n  
-                 ........\n    
-                  ......\n
- ##    ##    ###   ....\n
-#  #  #  #  #       ..
-####  ###   #      ....\n
-#  #  #      ###\n";
-**/
 /**
 $display = "<pre style = \"line-height:6px; line-weight:6px\">
                 -----------\n  
@@ -38,7 +31,7 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
  |  |  |      ---\n </pre>";
 
 **/
-
+/**
 $display = "#    #  ###  ### ###   
  #  #  #   #  #  ##  
    #    ###   #  ### 
@@ -46,6 +39,7 @@ $display = "#    #  ###  ### ###
 #   # ### # #   #  ## 
 # # # #_  # # # # #__#
 #  ## __# # #   # #  #\n";
+**/
 /**
 $display = "<pre style = \"line-height:10px; line-width:0px;\">
 
