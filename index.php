@@ -10,9 +10,10 @@ $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "Because Akwa Ibom Deserves Better.\n";
 
-$display = "\  / ‖̿ ‖ ̿ ‖̿
-  \/  ‖͇ ‖  ‖
-";
+$display = "  --    --    ---   ----\n
+ /  \  |  |  | \n
+ ----  |--   | \n
+ |  |  |      ---\n ";
 
 
 /**<pre style = \"line-height:6px; line-weight:6px\">
