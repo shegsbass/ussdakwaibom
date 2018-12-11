@@ -10,10 +10,11 @@ $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "Because Akwa Ibom Deserves Better.\n";
 
+/**
 $display = "*   *  ***  *  *   *    **
 * * *  *_   *  * * *  *__*
 *  **  __*  *  *   *  *   *\n";
-
+**/
 
 /**<pre style = \"line-height:6px; line-weight:6px\">
 
@@ -38,15 +39,13 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 **/
 
-/**$display = "<pre style = \"line-height:7px; line-width:2px\">
-#    #  ###  ### ### \n   
- #  #  #   #  #  ## \n 
-   #    ###   #  ###\n 
- \n  
-#   # ### # #   #  ## \n
-# # # #_  # # # # #__#\n
-#  ## __# # #   # #  #\n
-</pre>";
+/**$display = "#    #  ###  ### ###   
+ #  #  #   #  #  ##  
+   #    ###   #  ### 
+   
+#   # ### # #   #  ## 
+# # # #_  # # # # #__#
+#  ## __# # #   # #  #\n";
 **/
 /**
 $display = "<pre style = \"line-height:10px; line-width:0px;\">
@@ -56,18 +55,17 @@ $display = "<pre style = \"line-height:10px; line-width:0px;\">
 
 </pre>";
 **/
-/**
-$display = "<pre style = \"line-height:10px; line-width:3px\">
-# # ### ### ###\n
-##  ##  #   ##\n
-# # ### #   ###\n 
-   \n 
-#   # ### # #   #  ## \n
-# # # #__ # ## ## #__#\n
-#  ## __# # # # # #  #\n
+
+$display = "<pre style = \"line-height:10px\">
+# # ### ### ###
+##  ##  #   ##
+# # ### #   ###
+   
+#   # ### # #   #  ## 
+# # # #__ # ## ## #__#
+#  ## __# # # # # #  #
 </pre>";
 
-**/
 
 
 
