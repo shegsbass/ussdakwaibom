@@ -39,14 +39,13 @@ $display = "<pre style = \"line-height:6px; line-weight:6px\">
 
 **/
 
-/**$display = "#    #  ###  ### ###   
+$display = "#    #  ###  ### ###   
  #  #  #   #  #  ##  
    #    ###   #  ### 
    
 #   # ### # #   #  ## 
 # # # #_  # # # # #__#
 #  ## __# # #   # #  #\n";
-**/
 /**
 $display = "<pre style = \"line-height:10px; line-width:0px;\">
 
@@ -55,7 +54,7 @@ $display = "<pre style = \"line-height:10px; line-width:0px;\">
 
 </pre>";
 **/
-
+/**
 $display = "# #  ###  ###  ###
 ##   ##   #    ##
 # #  ###  #    ###
@@ -63,7 +62,7 @@ $display = "# #  ###  ###  ###
 #   #  ###  #  #   #   ## 
 # # #  #__  #  # # #  #__#
 #  ##  __#  #  #   #  #  #";
-
+**/
 
 
 
