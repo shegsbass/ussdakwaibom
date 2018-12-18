@@ -76,6 +76,7 @@ $response .= "CON Enter Your Polling Unit Number\n";
   else if ($text == "030101001"){
   $response .= "END Your polling unit is VILLAGE SQUARE, IKOT AKWA IBOM \n";
   $response .= "Do well to communicate truth during the election";
+  $response .= $card;
 }
 
 else if ($text == "030101002"){
