@@ -10,6 +10,13 @@ $phoneNumber = $_POST["phoneNumber"];
 $text = $_POST["text"];
 $message = "Because Akwa Ibom Deserves The Best.\n";
 
+$card = array("0192093201", "0192093202", "0192093203", "0192093204");
+$arrlength = count($card);
+for($sessionId = 0; $sessionId < $arrlength; $sessonId++) {
+    echo $card[$sessionId];
+    echo "<br>";
+}
+
 /**
 $display = "*   *  ***  *  *   *    **
 * * *  *_   *  * * *  *__*
